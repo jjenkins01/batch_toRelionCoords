@@ -15,11 +15,11 @@ Step 3: Open the bash script in a text editor and input your tomogram dimensions
 
 For example: 
 
-```vi batch_toRelionCoords.sh
+```vi batch_toRelionCoords.sh```
 
 ...
 
-# Define tomogram dimensions. This relates to the bin4 tomogram generated in Warp
+```# Define tomogram dimensions. This relates to the bin4 tomogram generated in Warp
 tomosize="[1024,1024,376]" # Tomogram dimensions as a string
 
 # Define the output STAR file name
