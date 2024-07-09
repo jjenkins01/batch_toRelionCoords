@@ -1,6 +1,6 @@
 [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41586--024--07680--x-blue)](https://doi.org/10.1038/s41586-024-07680-x)
 ![Bash Script](https://img.shields.io/badge/script-bash-1f425f)
-![PEET](https://img.shields.io/badge/software-PEET-4EAA25)
+![PEET](https://img.shields.io/badge/software-PEET-4EAA25?logo=appveyor)
 
 batch_toRelionCoords is a bash script for automating the PEET command "toRelionCoords".
 
