@@ -17,11 +17,11 @@ For example:
 
 ```vi batch_toRelionCoords.sh```
 
-```# Define tomogram dimensions. This relates to the bin4 tomogram generated in Warp
-tomosize="[1024,1024,376]" # Tomogram dimensions as a string```
+# Define tomogram dimensions. This relates to the bin4 tomogram generated in Warp
+tomosize="[1024,1024,376]" # Tomogram dimensions as a string
 
-```# Define the output STAR file name
-output_star_file="combined_star_file.star" # Output .STAR file to store the results```
+# Define the output STAR file name
+output_star_file="combined_star_file.star" # Output .STAR file to store the results
 
 Step 4: Run this script!
 
