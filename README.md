@@ -13,6 +13,18 @@ Step 2: Copy the files generated from createAlignedModel into motive list and mo
 
 Step 3: Open the bash script in a text editor and input your tomogram dimensions and the output star file name.
 
+For example: 
+
+```vi batch_toRelionCoords.sh
+
+...
+
+# Define tomogram dimensions. This relates to the bin4 tomogram generated in Warp
+tomosize="[1024,1024,376]" # Tomogram dimensions as a string
+
+# Define the output STAR file name
+output_star_file="combined_star_file.star" # Output .STAR file to store the results```
+
 Step 4: Run this script!
 
 For example: 
