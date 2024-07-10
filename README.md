@@ -4,6 +4,8 @@
 
 batch_toRelionCoords is a bash script for automating the PEET command "toRelionCoords".
 
+[https://bio3d.colorado.edu/ftp/PEET/man/html/man1/toRelionCoords.1.html]
+
 Step 1: Run createAlignedModel.
 
 For example:
